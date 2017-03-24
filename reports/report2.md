@@ -18,26 +18,32 @@ Results, Interpretation:
 ![price_vs_yield](imgs/price_vs_yield.png)
 
 Figure 1 illustrates that there is a definite, negative correlation between a state's yield (in pounds of honey per colony) and the price-per-pound - perhaps because higher yield suggests higher overall supplies, which in turn corresponds to lower prices (assuming stable demand), buffered by the numerous other sources in similar markets. This correlation of -0.36, however, can be broken down further:
+
 ---
 
 ![price_vs_yield_hilo](imgs/price_vs_yield_hilo.png)
 
 Figure 2 shows the same graph as figure 1, with a demarcation for "high-production" states (e.g., ND, CA) in blue. The correlation for these high-producers is -.41, compared to the -.3 for lower-production states. This is likely attributable to the fact that states with a higher absolute yield exert a disproportionate influence on the overall supply and demand of honey, coupled with potential agricultural and weather patterns which would affect multiple high-producers across the board. Of note, states with above-average production have far fewer outliers, especially with high mean prices or low production.
+
 ---
 
 ![colony_count_vs_year](imgs/colony_count_vs_year.png)
 
 Figure 3 plots the colony counts in states, as a percentage of their "starting" counts in 2002 (the first year in our sanitized datasets). US refers to the nation as a whole, displaying a small downtick in the 2000s and a slight recovery in the early 2010s; however, agriculturally-focused states (e.g. CA, AZ) have a more lasting decline in honey-producing colonies, while honey-crop states and small states (Sts - states too small to provide specific data for, due to privacy constraints) had early drops followed by rapid (albeit highly variable) expansions.
+
 ---
 
-![prod_stock](imgs/prod_stock_time.png) 
+![prod_stock](imgs/prod_stock_time.png)
 
 Figure 4 illustrates the strong positive correlation between a state's absolute production in a previous year, and the absolute quantity of honey in reserves or stocks. This conforms to our expectation that states which produce more honey will also keep more in reserve, especially during particularly-high-production years; the outliers to the right are for the US as a whole, indicating the trend holds at that scale as well.
+
 ---
 
-![illinois](imgs/illinois.PNG) 
+![illinois](imgs/illinois.PNG)
+
 ---
-![oregon](imgs/oregon.PNG) 
+![oregon](imgs/oregon.PNG)
+
 ---
 ![utah](imgs/utah.PNG)
 
