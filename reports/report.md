@@ -31,7 +31,9 @@ Figure 3 plots the colony counts in states, as a percentage of their "starting" 
 
 Figure 4 illustrates the strong positive correlation between a state's absolute production in a previous year, and the absolute quantity of honey in reserves or stocks. This conforms to our expectation that states which produce more honey will also keep more in reserve, especially during particularly-high-production years; the outliers to the right are for the US as a whole, indicating the trend holds at that scale as well.
 
-![illinois](imgs/illinois.PNG) [oregon](imgs/oregon.PNG) [utah](imgs/utah.PNG)
+![illinois](imgs/illinois.PNG) 
+![oregon](imgs/oregon.PNG) 
+![utah](imgs/utah.PNG)
 
 Figures 5-7 show the "clustering" of productions which we observe in many states. By calculating the cross-correlation between all pairs of states, we can see trends - groups whose production tends to move together. The state in green - Illinois, Oregon, and Utah respectively - is most closely correlated to the states in blue. Most of these include neighbors and states with similar climes; coincidence or random noise, however, may be the cause for factors like the correlation between Oregon and Alabama, or that of Illinois and Hawaii.
 
