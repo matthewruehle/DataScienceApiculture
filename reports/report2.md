@@ -39,13 +39,7 @@ Figure 4 illustrates the strong positive correlation between a state's absolute 
 
 ---
 
-![illinois](imgs/illinois.PNG)
-
----
-![oregon](imgs/oregon.PNG)
-
----
-![utah](imgs/utah.PNG)
+![states](imgs/states.png)
 
 Figures 5-7 show the "clustering" of productions which we observe in many states. By calculating the cross-correlation between all pairs of states, we can see trends - groups whose production tends to move together. The state in green - Illinois, Oregon, and Utah respectively - is most closely correlated to the states in blue. Most of these include neighbors and states with similar climes; coincidence or random noise, however, may be the cause for factors like the correlation between Oregon and Alabama, or that of Illinois and Hawaii.
 
